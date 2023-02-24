@@ -1,0 +1,3 @@
+-- created by development team of Terror Exploits: https://discord.gg/nhpDnwbwRR
+game:GetService("ReplicatedStorage").Inventory:FireServer(table.unpack({    [1] = "Change",    [2] = "WAPENNAAM",    [3] = "Inv",}))
+-- zet bij [2] = "WAPENNAAM" aan het einde van het script neer welk wapen je in wilt spawnen.
